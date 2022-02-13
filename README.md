@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jachinema
+- 👀 I’m interested in ... Computer Science and math.
+- 🌱 I’m currently learning ... Python & Java
+- 💞️ I’m looking to collaborate on ... not much at the moment, but maybe in the future.
+- 📫 How to reach me ... add "@gmail.com" after my username and there you go. I check my email about once every two centuries.
